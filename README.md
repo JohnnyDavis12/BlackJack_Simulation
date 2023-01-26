@@ -1,5 +1,5 @@
 # BlackJack_Simulation
-Simulating BlackJack Hands Using Numpy
+Simulating BlackJack Play Between Dealer and Player Using Numpy
 
 NEEDS DEBUGGING 
 1. Does Not Recognize Ace's as 11 only 1. Not Simulating blackjack / 21. 
